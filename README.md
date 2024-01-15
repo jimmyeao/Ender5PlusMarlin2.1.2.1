@@ -15,4 +15,7 @@ Marlin 2.1.2.1 With:
 - TMC 2209 EZ Drivers
 - NeoPixels Enabled
 - Set up for TFT35 V3
+- baby stepping
+- tramming wizzard
+- UBL levelling (Far better than ABL IMHO)
 - Set up for Octoprint
