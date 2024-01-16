@@ -5,10 +5,7 @@ I am also using a BMG direct drive extruder and Lenear rails, so CHECK YOUR STEP
 
 I also DO NOT use the filament run out sensor, you will need to configure this if you use it
 
-![image](https://github.com/jimmyeao/Ender5PlusMarlin2.1.2.1/assets/5197831/2d734bca-e473-4eca-aa0c-513d9f34ee49)
-
-
-
+![image](https://github.com/jimmyeao/Ender5PlusMarlin2.1.2.1/assets/5197831/a6e7ef26-2e12-469e-89b5-bb0a029a7480)
 
 Marlin 2.1.2.1 With:
 - Linear Advance
