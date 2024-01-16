@@ -1,3 +1,4 @@
+<h1>DO NOT USE - issues with homing and z probe</h1> 
 
 This is for an Ender 5 Plus, SKR 3 EZ board and the TFT35 V3. Note the layout of Driver/Motor connections.
 
