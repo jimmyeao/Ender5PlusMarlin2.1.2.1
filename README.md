@@ -1,4 +1,3 @@
-<h1>DO NOT USE - issues with homing and z probe</h1> 
 
 This is for an Ender 5 Plus, SKR 3 EZ board and the TFT35 V3. Note the layout of Driver/Motor connections.
 
@@ -6,9 +5,7 @@ I am also using a BMG direct drive extruder and Lenear rails, so CHECK YOUR STEP
 
 I also DO NOT use the filament run out sensor, you will need to configure this if you use it
 
-![image](https://github.com/jimmyeao/Ender5PlusMarlin2.1.2.1/assets/5197831/16276707-be86-42bb-9e15-0582acdbfbff)
-
-
+![image](https://github.com/jimmyeao/Ender5PlusMarlin2.1.2.1/assets/5197831/a6e7ef26-2e12-469e-89b5-bb0a029a7480)
 
 Marlin 2.1.2.1 With:
 - Linear Advance
